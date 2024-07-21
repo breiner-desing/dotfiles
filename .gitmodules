@@ -1,3 +1,6 @@
 [submodule "qtile"]
 	path = qtile
 	url = git@github.com:breiner-desing/qtile.git
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:breiner-desing/neovim-config.git
